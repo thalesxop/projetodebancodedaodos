@@ -1,1 +1,6 @@
-Projeto de banco de dados
+Descrição do Projeto
+
+Este projeto tem como objetivo desenvolver um banco de dados para uma empresa fornecedora de bebidas, com foco no controle e gerenciamento de estoque. A proposta é criar uma estrutura organizada capaz de armazenar informações sobre produtos, fornecedores, clientes, entradas e saídas de mercadorias, permitindo um acompanhamento mais eficiente das operações da empresa.
+O sistema será voltado para o registro das bebidas disponíveis em estoque, considerando dados como nome do produto, categoria, marca, quantidade, preço, fornecedor e data de validade. Além disso, o banco permitirá controlar as movimentações de entrada, provenientes de compras junto aos fornecedores, e as saídas, relacionadas às vendas realizadas aos clientes.
+A utilização desse banco de dados busca melhorar a organização das informações, reduzir falhas no controle manual, facilitar a consulta de produtos disponíveis e apoiar a tomada de decisões da empresa. Com isso, será possível identificar produtos com baixo estoque, acompanhar o histórico de movimentações e evitar perdas causadas por vencimento ou falta de controle adequado.
+Dessa forma, o projeto simula uma solução prática e aplicável ao contexto real de uma empresa distribuidora de bebidas, demonstrando a importância da modelagem e implementação de banco de dados para a gestão eficiente de recursos, processos e informações.
